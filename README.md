@@ -1,2 +1,4 @@
-# Path-Finder-Hackathon
-Fork the repo and Start the push the commits of your project in the forked repo with your team name and contribution. Every Single member has to contribute as the contribution will be monitored and checked. 
+Fork: Use the fork function to create a copy of the project repository.
+Commit and Push: Push commits regularly to the forked repository.
+Identify: Ensure the team name is stated in the documentation or commit history.
+Monitor: Individual progress will be tracked through the repository’s contribution history; participation from every member is required. 
